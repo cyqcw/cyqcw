@@ -24,6 +24,7 @@
 | ![Lvjinhong's github stats](https://github-readme-stats.vercel.app/api?username=cyqcw&show_icons=true&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cyqcw&layout=compact) |
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyqcw&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
