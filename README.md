@@ -31,4 +31,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyqcw" alt="GitHub Readme Streak Stats - hchc"></img>
 </p>
 
+# Activity
 
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=cyqcw&bg_color=white&color=99CCFF&line=33FFFF&point=FF0033&hide_border=true" />
