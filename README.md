@@ -1,9 +1,6 @@
-### Hi there 👋
-
-<!--
-**cyqcw/cyqcw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Skills
+
+<!--   my-skils -->
 
 | Property                                        | Data                                                         |
 | ----------------------------------------------- | ------------------------------------------------------------ |
@@ -15,18 +12,5 @@
 | **Tools & Platform**                            | ![OpenCV](https://img.shields.io/badge/OpenCV-F0DB4F?style=for-the-badge&logo=OpenCV&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-FFCC99?style=for-the-badge&logo=Pandas&logoColor=white) ![Matplotlib%20Seaborn%20Pyecharts](https://img.shields.io/badge/Matplotlib%20Seaborn%20Pyecharts-66FFFF?style=for-the-badge&logo=apacheecharts&logoColor=white) ![OpenMP%20MPI%20Cuda](https://img.shields.io/badge/OpenMP%20MPI%20Cuda-99FF66?style=for-the-badge&logo=nvidia&logoColor=white) ![springboot](https://img.shields.io/badge/springboot-6666FF?style=for-the-badge&logo=springboot&logoColor=white) |
 | **Machine Learning / Deep Learning frameworks** | ![Pytorch](https://img.shields.io/badge/Pytorch-E34F26?style=for-the-badge&logo=Pytorch&logoColor=white) ![tensorflow](https://img.shields.io/badge/Tensorflow-1572B6?style=for-the-badge&logo=Tensorflow&logoColor=white)  ![scikitlearn](https://img.shields.io/badge/scikitlearn-CC00CC?style=for-the-badge&logo=Tensorflow&logoColor=white)   ![Numpy](https://img.shields.io/badge/Numpy-CCCCFF?style=for-the-badge&logo=Numpy&logoColor=white) |
 
+---
 
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyqcw)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyqcw&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=cyqcw" /> </div>
-
-
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyqcw" /> </div>
-
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);祝您今天愉快!&center=true&size=27"> </a> </h1>
