@@ -15,22 +15,22 @@
 ---
 
 
-# Star And Languages
+# Languages
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyqcw&hide=javascript,html"/>
+</p>
 
+# State
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=cyqcw&show_icons=true&include_all_commits=true" alt="hchc's github stats"></img>
+</p>
 
-
-| .                                                            | .                                                            |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![Lvjinhong's github stats](https://github-readme-stats.vercel.app/api?username=cyqcw&show_icons=true&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cyqcw&hide=javascript,html) |
-
-
-
-# next
+# Next
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cyqcw" alt="GitHub Readme Streak Stats - hchc"></img>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyqcw" alt="GitHub Readme Streak Stats - hchc"></img>
 </p>
 
 # Activity
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=cyqcw&bg_color=white&color=99CCFF&line=33FFFF&point=FF0033&hide_border=true" />
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=cyqcw" />
