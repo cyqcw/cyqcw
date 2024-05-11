@@ -18,13 +18,13 @@
 
 # Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyqcw&hide=javascript,html,ASP.NET,css,shaderlab,hlsl"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyqcw&hide=javascript,html,ASP.NET,css,shaderlab,hlsl"/>  </img> ![Github Stats](https://github-readme-stats.vercel.app/api?username=cyqcw&show_icons=true&theme=transparent&count_private=true&include_all_commits=true) 
 
 <!-- &layout=compact -->
 
 # Next
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cyqcw" alt="GitHub Readme Streak Stats - hchc"> </img> ![Github Stats](https://github-readme-stats.vercel.app/api?username=cyqcw&show_icons=true&theme=transparent&count_private=true&include_all_commits=true) 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cyqcw" alt="GitHub Readme Streak Stats - hchc"> 
 
 
 
