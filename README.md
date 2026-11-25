@@ -1,33 +1,46 @@
-# Skills
-
-| Property                                        | Data                                                         |
-| ----------------------------------------------- | ------------------------------------------------------------ |
-| **Language**                                    | ![CLion Badge](https://img.shields.io/badge/-Java-FF6600?style=flat&logo=oracle)  ![CLion Badge](https://img.shields.io/badge/-Python%20-white?style=flat&logo=Python)  ![C++ Badge](https://img.shields.io/badge/-C++%20-white?style=flat&logo=cplusplus&logoColor=blue) ![Java Badge](https://img.shields.io/badge/-Go%20-white?style=flat&logo=Go)  ![Java Badge](https://img.shields.io/badge/-Rust%20-white?style=flat&logo=rust&logoColor=black) ![Java Badge](https://img.shields.io/badge/-JavaScript%20-blue?style=flat&logo=JavaScript) |
-| **Domain Knownledge**                           | [![Computer Science Development Badge](https://img.shields.io/badge/-CS-FAB040?style=flat&logo=cs&Color=white)](https://github.com/search?q=user%3ABEPb&type=Repositories) [![Software Development Badge](https://img.shields.io/badge/-SE-FFCCFF?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories) [![HPC Badge](https://img.shields.io/badge/-WEB-0066FF?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories) [![HPC Badge](https://img.shields.io/badge/-DDD-366FF?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories) |
-| **CI / CD**                                     | [![Markdown Badge](https://img.shields.io/badge/-Markdown%20-white?style=flat&logo=Markdown&logoColor=black)](https://github.com/cyqcw) [![Github Badge](https://img.shields.io/badge/-Github%20-white?style=flat&logo=Github&logoColor=black)](https://github.com/cyqcw) [![Github Actions Badge](https://img.shields.io/badge/-Git%20-white?style=flat&logo=Git&logoColor=black)](https://github.com/cyqcw) |
-| **Databases**                                   | [![MySQL Badge](https://img.shields.io/badge/-MySQL%20-white?style=flat&logo=mysql)](https://github.com/cyqcw) [![Mongodb Badge](https://img.shields.io/badge/-MongoDB%20-white?style=flat&logo=mongodb&logoColor=00684A)](https://github.com/cyqcw) [![Mongodb Badge](https://img.shields.io/badge/-ClickHouse%20-white?style=flat&logo=clickhouse)](https://github.com/cyqcw) [![Mongodb Badge](https://img.shields.io/badge/-Redis%20-white?style=flat&logo=redis)](https://github.com/cyqcw) [![Mongodb Badge](https://img.shields.io/badge/-ElasticSearch%20-white?style=flat&logo=elasticsearch&logoColor=blue)](https://github.com/cyqcw) [![Mongodb Badge](https://img.shields.io/badge/-Neo4j%20-white?style=flat&logo=neo4j&logoColor=blue)](https://github.com/cyqcw) |
-| **OS**                                          | [![Windows](https://img.shields.io/badge/-Linux%20-white?style=flat&logo=linux&logoColor=black)](https://github.com/cyqcw) [![Ubuntu](https://img.shields.io/badge/-Ubuntu%20-white?style=flat&logo=ubuntu&logoColor=E95420)](https://github.com/cyqcw)  [![Centos](https://img.shields.io/badge/-Centos%20-white?style=flat&logo=centos&logoColor=0078D4)](https://github.com/cyqcw) [![Windows](https://img.shields.io/badge/-Windows%20-white?style=flat&logo=windows&logoColor=blue)](https://github.com/cyqcw) [![Windows](https://img.shields.io/badge/-MacOS%20-white?style=flat&logo=macos&logoColor=blue)](https://github.com/cyqcw)  [![Windows](https://img.shields.io/badge/-Android%20-white?style=flat&logo=android&logoColor=blue)](https://github.com/cyqcw) [![Windows](https://img.shields.io/badge/-HarmonyOS%20-white?style=flat&logo=harmonyos&logoColor=blue)](https://github.com/cyqcw) |
-| **Tools & Platform**                            | ![springboot](https://img.shields.io/badge/springboot-6666FF?logo=springboot&logoColor=white) ![springboot](https://img.shields.io/badge/spring-366FF?logo=spring&logoColor=white) ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?logo=openai&logoColor=white) |
-| **Machine Learning / Deep Learning frameworks** | ![Numpy](https://img.shields.io/badge/Numpy-CCCCFF?logo=Numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-FFCC99?logo=Pandas&logoColor=white) |
+<h1 align="center">Hi 👋, I'm Chase / cyqcw</h1>
+<h3 align="center">全栈开发，对新鲜事物感兴趣 | Full-stack developer, curious about new tech</h3>
 
 ---
 
-<!-- https://ileriayo.github.io/markdown-badges/ -->
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cyqcw&show_icons=true&theme=transparent&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyqcw&hide=javascript,html,ASP.NET,css,shaderlab,hlsl" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyqcw" alt="GitHub Streak" />
+</p>
 
+---
 
-# Languages
+### 🛠️ Tech Stack
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyqcw&hide=javascript,html,ASP.NET,css,shaderlab,hlsl"/>  </img> ![Github Stats](https://github-readme-stats.vercel.app/api?username=cyqcw&show_icons=true&theme=transparent&count_private=true&include_all_commits=true) 
+| Category | Skills |
+|----------|--------|
+| **Languages** | ![Java](https://img.shields.io/badge/Java-FF6600?style=flat-square&logo=oracle) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch) ![ClickHouse](https://img.shields.io/badge/ClickHouse-FCC624?style=flat-square&logo=clickhouse) |
+| **Frameworks** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring) ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs) |
+| **OS** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai) ![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas) |
 
-<!-- &layout=compact -->
+---
 
-# Next
+### 📌 Featured Projects
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cyqcw" alt="GitHub Readme Streak Stats - hchc"> 
+| Project | Description | Language |
+|---------|-------------|----------|
+| [![DesignPattern](https://github-readme-stats.vercel.app/api/pin/?username=cyqcw&repo=DesignPattern)](https://github.com/cyqcw/DesignPattern) | Java 设计模式示例与实践 | Java |
+| [![spider](https://github-readme-stats.vercel.app/api/pin/?username=cyqcw&repo=spider)](https://github.com/cyqcw/spider) | JavaScript 爬虫项目 | JavaScript |
 
+---
 
+### 📫 Contact
 
-# Activity
+- Email: **cyqcw@foxmail.com**
 
-<img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=cyqcw&theme=dracula" />
+---
+
+### 📈 Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph/?username=cyqcw&theme=dracula" alt="Activity Graph" />
